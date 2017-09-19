@@ -1,0 +1,9 @@
+[submodule "odoo-custom-module-example3"]
+	path = odoo-custom-module-example3
+	url = https://github.com/danypr92/odoo-custom-module-example3.git
+[submodule "odoo-custom-module-example2"]
+	path = odoo-custom-module-example2
+	url = https://github.com/danypr92/odoo-custom-module-example2.git
+[submodule "odoo-custom-module-example1"]
+	path = odoo-custom-module-example1
+	url = https://github.com/danypr92/odoo-custom-module-example1.git
